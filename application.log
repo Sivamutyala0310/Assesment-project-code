@@ -1,0 +1,332 @@
+2019-09-26 12:51:09,519  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 13:16:10,675  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 13:16:18,384  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 13:17:06,285  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 13:17:13,734  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 13:42:57,336  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 13:43:08,292  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 14:02:35,224  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 14:02:48,650  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 14:08:13,368  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 14:08:26,505  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 14:29:13,801  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 14:29:24,755  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 14:43:11,065  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 14:43:23,619  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 16:13:53,753  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 16:14:04,686  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 16:14:07,766  INFO [main] LogReports:27 - 546
+2019-09-26 16:15:01,257  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 16:15:12,511  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 16:15:16,020  INFO [main] LogReports:27 - 546
+2019-09-26 16:16:17,749  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 16:16:28,781  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 16:16:31,738  INFO [main] LogReports:27 - 546
+2019-09-26 16:16:34,209  INFO [main] LogReports:27 - 546
+2019-09-26 16:16:40,172  INFO [main] LogReports:27 - 546
+2019-09-26 16:16:42,872  INFO [main] LogReports:27 - 546
+2019-09-26 16:20:01,876  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 16:20:13,330  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 16:20:16,956  INFO [main] LogReports:27 - 546
+2019-09-26 16:20:19,319  INFO [main] LogReports:27 - 546
+2019-09-26 16:20:24,959  INFO [main] LogReports:27 - 546
+2019-09-26 16:20:27,696  INFO [main] LogReports:27 - 546
+2019-09-26 16:26:26,636  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 16:26:37,590  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 16:26:40,647  INFO [main] LogReports:27 - 546
+2019-09-26 16:26:43,580  INFO [main] LogReports:27 - 546
+2019-09-26 16:26:50,535  INFO [main] LogReports:27 - 546
+2019-09-26 16:26:53,130  INFO [main] LogReports:27 - 546
+2019-09-26 16:26:55,604  INFO [main] LogReports:27 - 546
+2019-09-26 16:55:27,132  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 16:55:37,959  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 17:00:02,176  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 17:00:14,112  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 17:00:17,939  INFO [main] LogReports:22 - failed : validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 17:00:17,940  INFO [main] LogReports:22 - failed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 17:00:20,653  INFO [main] LogReports:22 - failed : validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 17:00:20,653  INFO [main] LogReports:22 - failed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 17:00:26,171  INFO [main] LogReports:22 - failed : validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 17:00:26,171  INFO [main] LogReports:22 - failed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 17:00:29,184  INFO [main] LogReports:22 - failed : validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 17:00:29,185  INFO [main] LogReports:22 - failed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 17:00:33,979  INFO [main] LogReports:22 - failed : validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 17:00:33,985  INFO [main] LogReports:22 - failed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 17:32:04,931  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 17:33:40,073  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 17:34:48,580  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 17:38:37,825  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 18:00:08,921  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 18:02:59,506  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 18:08:50,311  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 18:39:45,694  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 18:49:59,308  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 18:52:16,450  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 18:55:10,111  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:01:14,056  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:02:37,384  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:04:59,311  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:12:37,329  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:16:24,600  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:19:20,603  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:19:42,718  INFO [main] LogReports:22 - failed: validated blog: Actual data :    Expected :Debunking Myths about AI
+2019-09-26 19:27:38,624  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:28:00,765  INFO [main] LogReports:22 - failed: validated blog: Actual data :    Expected :Debunking Myths about AI
+2019-09-26 19:34:28,192  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:34:48,047  INFO [main] LogReports:22 - failed: validated blog: Actual data :    Expected :Debunking Myths about AI
+2019-09-26 19:37:57,620  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:38:13,501  INFO [main] LogReports:22 - navigating to atmecs website
+2019-09-26 19:38:15,962  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 19:38:15,972  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 19:38:18,095  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 19:38:18,099  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 19:38:23,975  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 19:38:23,975  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 19:38:26,638  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 19:38:26,638  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 19:38:29,434  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-26 19:38:29,434  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-26 19:44:18,831  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 19:53:42,711  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-26 19:55:21,551  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:55:40,314  INFO [main] LogReports:22 - failed: validated blog: Actual data :    Expected :Debunking Myths about AI
+2019-09-26 19:59:05,953  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 19:59:24,368  INFO [main] LogReports:22 - failed: validated blog: Actual data :    Expected :Debunking Myths about AI
+2019-09-26 20:02:44,722  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 20:03:05,078  INFO [main] LogReports:22 - failed: validated blog: Actual data :    Expected :Debunking Myths about AI
+2019-09-26 20:09:44,567  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 20:14:21,296  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 20:24:39,793  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 20:24:58,364  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-26 20:26:57,717  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 20:27:16,585  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-26 20:33:43,523  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 20:34:03,846  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-26 20:42:19,659  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 20:42:46,530  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-26 20:59:50,390  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-26 21:00:13,352  INFO [main] LogReports:22 - failed: validated blog: Actual data : Debunking Myths about AI   Expected :null
+2019-09-27 09:41:10,736  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 09:41:26,529  INFO [main] LogReports:22 - failed: validated blog: Actual data : Debunking Myths about AI   Expected :null
+2019-09-27 09:41:31,163  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :null
+2019-09-27 09:47:39,156  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 09:47:55,551  INFO [main] LogReports:22 - failed: validated blog: Actual data : Debunking Myths about AI   Expected :null
+2019-09-27 09:48:00,244  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :null
+2019-09-27 10:10:48,092  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 10:11:07,138  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:11:25,602  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:17:02,386  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 10:17:19,000  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:17:24,541  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:17:24,808  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 10:24:51,720  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 10:25:07,851  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:25:12,305  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:25:12,574  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 10:30:16,954  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 10:30:32,450  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:30:37,447  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI Home › AI › Debunking Myths about AI
+2019-09-27 10:30:37,696  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 12:11:34,971  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:11:51,626  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:15:45,221  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:16:02,301  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:19:07,241  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:20:19,187  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:20:51,101  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:23:17,311  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:23:39,219  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:30:32,211  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:30:56,001  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:32:28,912  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:32:52,503  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:40:56,714  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 12:41:57,102  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 12:42:13,022  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:43:43,571  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:44:06,599  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 13:11:22,923  INFO [main] LogReports:22 - IE browser is started...
+2019-09-27 13:11:47,119  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 13:12:01,302  INFO [main] LogReports:22 - failed: validated date: Actual data :    Expected :September 26, 2019
+2019-09-27 13:52:53,007  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 13:56:31,804  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 13:57:20,222  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 13:58:17,248  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 13:59:39,542  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 14:04:29,188  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:04:53,338  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:09:11,622  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:09:31,104  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:11:26,570  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:11:45,559  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:14:48,373  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:15:07,747  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:15:15,766  INFO [main] LogReports:22 - failed: validated date: Actual data :    Expected :September 26, 2019
+2019-09-27 14:15:16,414  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI Home › AI › Debunking Myths about AI
+2019-09-27 14:15:16,658  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:22:14,571  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:22:34,399  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:22:42,310  INFO [main] LogReports:22 - failed: validated date: Actual data :    Expected :September 26, 2019
+2019-09-27 14:22:42,439  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 14:22:42,582  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 14:22:43,140  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI Home › AI › Debunking Myths about AI
+2019-09-27 14:22:43,392  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:29:45,531  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:30:07,535  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:30:19,420  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 14:30:19,853  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:30:20,041  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:30:20,221  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:30:20,377  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:45:35,010  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:46:54,513  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:47:13,543  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 14:47:14,017  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI                 Home › AI › Debunking Myths about AI
+2019-09-27 14:59:27,081  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:00:28,214  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:01:51,376  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:02:19,573  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 15:02:35,836  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 15:02:36,279  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI 
+ Home › AI › Debunking Myths about AI
+2019-09-27 15:02:36,495  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 15:02:36,651  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 15:19:32,729  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:19:59,800  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 15:20:17,288  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 15:20:17,802  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+ Home › AI › Debunking Myths about AI
+2019-09-27 15:20:18,046  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 15:20:18,202  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 15:20:18,378  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 15:33:58,853  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:34:30,891  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 15:34:44,205  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 15:34:44,715  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-27 15:34:44,927  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 17:22:14,574  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 17:22:32,548  INFO [main] LogReports:22 - Second Scenario Started
+2019-09-27 17:22:37,041  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 17:22:47,374  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 17:34:45,184  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 17:35:01,144  INFO [main] LogReports:22 - Second Scenario Started
+2019-09-27 17:35:07,293  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 17:35:16,590  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 17:35:16,744  INFO [main] LogReports:22 - failed: validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+2019-09-27 17:35:17,293  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-27 17:35:17,555  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 17:35:17,555  INFO [main] LogReports:22 - Second scenario successfully completed
+2019-09-27 18:04:37,172  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 18:04:52,805  INFO [main] LogReports:22 - Second Scenario Started
+2019-09-27 18:04:57,110  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 18:05:06,430  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 18:05:06,608  INFO [main] LogReports:22 - failed: validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.ATMECS AI Infographic
+2019-09-27 18:05:07,236  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-27 18:05:07,499  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 18:05:07,499  INFO [main] LogReports:22 - Second scenario successfully completed
+2019-09-27 18:44:15,580  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 18:44:32,401  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-09-27 18:44:34,993  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:34,993  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:44:37,148  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:37,148  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:44:44,756  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:44,756  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:44:47,635  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:47,635  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:44:50,143  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:50,148  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:45:05,606  INFO [main] LogReports:22 - Footer of all the pages are validated: All the pages contain same Footer values
+2019-09-27 19:04:54,010  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 19:05:11,711  INFO [main] LogReports:22 - second test case started
+2019-09-27 19:05:12,685  INFO [main] LogReports:22 - second test case completed
+2019-09-27 20:08:21,759  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 20:08:40,481  INFO [main] LogReports:22 - second test case started
+2019-09-27 20:08:41,141  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-27 20:08:41,661  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-27 20:08:41,661  INFO [main] LogReports:22 - second test case completed
+2019-09-27 20:40:31,747  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 20:40:51,199  INFO [main] LogReports:22 - second test case started
+2019-09-27 20:40:51,928  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-27 20:40:52,472  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-27 20:43:10,566  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 20:43:29,151  INFO [main] LogReports:22 - second test case started
+2019-09-27 20:43:29,873  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-27 20:43:30,492  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
