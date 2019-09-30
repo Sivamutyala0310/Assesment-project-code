@@ -16,7 +16,7 @@ public class AtmecsSiteValidationDataAllocators
 	String ExpectedError;
 	String ExpectedBlogContent;
 	String expectedServicesMenu;
-	String digitalLifeMenuItems;
+	String DigitalLifeMenuItems;
 	String InfrastructureServicesMenu;
 	Properties properties;
 
@@ -92,13 +92,7 @@ public class AtmecsSiteValidationDataAllocators
 	public void setExpectedServicesMenu() {
 		expectedServicesMenu = properties.getProperty("expectedServicesMenu");
 	}
-	public String getDigitalLifeMenuItems() {
-		return digitalLifeMenuItems;
-	}
-
-	public void setDigitalLifeMenuItems() {
-		digitalLifeMenuItems =properties.getProperty(" expectedDigitalLifemenu");
-	}
+	
 	public String getInfrastructureServicesMenu() {
 		return InfrastructureServicesMenu;
 	}
@@ -106,7 +100,13 @@ public class AtmecsSiteValidationDataAllocators
 	public void setInfrastructureServicesMenu() {
 		InfrastructureServicesMenu = properties.getProperty("infrastructureServicesMenu");
 	}
+	public String getDigitalLifeMenuItems() {
+		return DigitalLifeMenuItems;
+	}
 
+	public void setDigitalLifeMenuItems() {
+		DigitalLifeMenuItems =  properties.getProperty("digitalLifeMenuItems");
+	}
 	public static void main(String[] args) throws IOException {
 		AtmecsSiteXpathAllocators keys = new AtmecsSiteXpathAllocators();
 		keys.getData();

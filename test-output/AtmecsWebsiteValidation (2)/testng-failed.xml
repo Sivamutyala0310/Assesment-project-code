@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AtmecsWebsiteValidation (2)]">
+  <test thread-count="5" name="ValidatingMenuFields(failed)">
+    <classes>
+      <class name="com.atmecs.atmecswebsite.testscripts.InsightBlog">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="endTest"/>
+          <include name="insightBlog"/>
+        </methods>
+      </class> <!-- com.atmecs.atmecswebsite.testscripts.InsightBlog -->
+    </classes>
+  </test> <!-- ValidatingMenuFields(failed) -->
+</suite> <!-- Failed suite [AtmecsWebsiteValidation (2)] -->

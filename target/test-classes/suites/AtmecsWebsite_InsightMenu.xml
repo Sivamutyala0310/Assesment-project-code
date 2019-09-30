@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AtmecsWebsiteValidation">
+  <test  name="ValidatingMenuFields" >
+    <classes>
+     <class name="com.atmecs.atmecswebsite.testscripts.InsightBlog"/>
+      </classes>
+  </test> <!-- ValidatingMenuFields -->
+</suite> <!-- AtmecsWebsiteValidation -->

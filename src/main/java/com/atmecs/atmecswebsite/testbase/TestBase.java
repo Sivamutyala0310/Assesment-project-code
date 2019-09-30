@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 
 import com.atmecs.atmecswebsite.constants.ConstantFilePaths;
@@ -27,34 +28,33 @@ public class TestBase
 		baseProperty = ReadLocatorsFile.loadProperty(ConstantFilePaths.CONFIG_FILE);
 		url = baseProperty.getProperty("url");
 		browser = baseProperty.getProperty("browserType");
-		
-		if (browser.equalsIgnoreCase("chrome")) {
+
+		if (browser.equalsIgnoreCase("chrome")) 
+		{
 			System.setProperty("webdriver.chrome.driver", ConstantFilePaths.CHROME_FILE);
 			driver = new ChromeDriver();
 			log.info("Chrome browser is started...");
-		} else if (browser.equalsIgnoreCase("firefox")) {
+		} 
+		else if (browser.equalsIgnoreCase("firefox")) 
+		{
 			System.setProperty("webdriver.gecko.driver", ConstantFilePaths.FIREFOX_FILE);
 			driver = new FirefoxDriver();
 			log.info("Firefox browser is started...");
-		} else if (browser.equalsIgnoreCase("IE")) {
+		} 
+		else if (browser.equalsIgnoreCase("IE")) 
+		{
 			System.setProperty("webdriver.ie.driver", ConstantFilePaths.IE_FILE);
 			driver = new InternetExplorerDriver();
 			log.info("IE browser is started...");
 		}
-		
-		/*
-		 * Capabilities caps = ((RemoteWebDriver) driver).getCapabilities(); browserName
-		 * = caps.getBrowserName(); browserVersion = caps.getVersion();
-		 * 
-		 * os = System.getProperty("os.name").toLowerCase(); log.info("OS: " + os +
-		 * " and " + " Browser: " + browserName + " " + browserVersion);
-		 */
-
-		
 		driver.get(url);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().pageLoadTimeout(3, TimeUnit.MINUTES);
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		//BasicConfigurator.configure();
+	}
+	@AfterSuite
+	public void endTest() 
+	{
+		driver.quit();
 	}
 }
