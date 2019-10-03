@@ -3,13 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.atmecs.atmecswebsite.testscripts.InsightBlog">
+      <class name="com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage">
         <methods>
-          <include name="endTest"/>
-          <include name="insightBlog"/>
           <include name="initializeBrowser"/>
+          <include name="startReports"/>
+          <include name="getReport"/>
+          <include name="validateHomePage"/>
+          <include name="getClose"/>
+          <include name="quitDriver"/>
         </methods>
-      </class> <!-- com.atmecs.atmecswebsite.testscripts.InsightBlog -->
+      </class> <!-- com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

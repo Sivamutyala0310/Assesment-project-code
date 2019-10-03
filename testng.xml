@@ -9,4 +9,8 @@
 		<suite-file
 			path="./src/test/resources/suites/AtmecsWebsite_InsightMenu.xml" />
 	</suite-files>
+	<suite-file
+			path="./src/test/resources/suites/AtmecsWebsite_MoreInfo.xml" />
+	</suite-files>
+	
 </suite> <!-- AtmecsWebsiteValidation -->

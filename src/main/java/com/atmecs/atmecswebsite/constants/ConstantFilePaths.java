@@ -31,4 +31,15 @@ public class ConstantFilePaths
 	public final static String validation_testData = homeDir + "src\\test\\resources" + File.separator + "testdata"
 			+ File.separator;
 	public final static String ValidationTESTDATA_FILE = validation_testData + "atmecsvalidation_testdata.properties";
+	
+	public final static String locators_HomePage = homeDir + "src\\test\\resources" + File.separator + "locators" + File.separator;
+	public final static String LOCATORSHomePage_FILE = locators_HomePage + "atmecshomepage_locators.properties";
+	
+	public final static String  HomePageValidation_testData = homeDir + "src\\test\\resources" + File.separator + "testdata"
+			+ File.separator;
+	public final static String ValidationHOMETESTDATA_FILE = HomePageValidation_testData + "homepagevalidation_testdata.properties";
+	
+	
+	
+	
 }

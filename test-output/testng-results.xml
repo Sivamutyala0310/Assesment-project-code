@@ -2,24 +2,43 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33531" started-at="2019-09-30T15:16:01Z" finished-at="2019-09-30T15:16:35Z">
+  <suite name="Default suite" duration-ms="58015" started-at="2019-10-03T15:36:45Z" finished-at="2019-10-03T15:37:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33531" started-at="2019-09-30T15:16:01Z" finished-at="2019-09-30T15:16:35Z">
-      <class name="com.atmecs.atmecswebsite.testscripts.InsightBlog">
-        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.InsightBlog@1f28c152]" name="initializeBrowser" is-config="true" duration-ms="22247" started-at="2019-09-30T15:16:01Z" finished-at="2019-09-30T15:16:24Z">
+    <test name="Default test" duration-ms="58015" started-at="2019-10-03T15:36:45Z" finished-at="2019-10-03T15:37:43Z">
+      <class name="com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage">
+        <test-method status="PASS" signature="startReports()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage@6325a3ee]" name="startReports" is-config="true" duration-ms="180" started-at="2019-10-03T15:36:45Z" finished-at="2019-10-03T15:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReports -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage@6325a3ee]" name="initializeBrowser" is-config="true" duration-ms="17244" started-at="2019-10-03T15:36:46Z" finished-at="2019-10-03T15:37:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeBrowser -->
-        <test-method status="PASS" signature="insightBlog()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.InsightBlog@1f28c152]" name="insightBlog" duration-ms="11245" started-at="2019-09-30T15:16:24Z" finished-at="2019-09-30T15:16:35Z">
+        <test-method status="PASS" signature="validateHomePage()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage@6325a3ee]" name="validateHomePage" duration-ms="40060" started-at="2019-10-03T15:37:03Z" finished-at="2019-10-03T15:37:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- insightBlog -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.InsightBlog@1f28c152]" name="endTest" is-config="true" duration-ms="1075" started-at="2019-09-30T15:16:35Z" finished-at="2019-09-30T15:16:36Z">
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage@6325a3ee]" name="getReport" is-config="true" duration-ms="8" started-at="2019-10-03T15:37:43Z" finished-at="2019-10-03T15:37:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=AtmecsWebsiteHomePage.validateHomePage()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage@6325a3ee] output={null}]]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- com.atmecs.atmecswebsite.testscripts.InsightBlog -->
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="getClose()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage@6325a3ee]" name="getClose" is-config="true" duration-ms="493" started-at="2019-10-03T15:37:43Z" finished-at="2019-10-03T15:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClose -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage@6325a3ee]" name="quitDriver" is-config="true" duration-ms="3851" started-at="2019-10-03T15:37:44Z" finished-at="2019-10-03T15:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

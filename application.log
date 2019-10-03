@@ -1372,3 +1372,1440 @@ Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
 Home › AI › Debunking Myths about AI
 2019-09-30 20:46:35,364  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
 2019-09-30 20:46:35,364  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-09-30 23:00:01,106  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-30 23:00:05,959  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-30 23:00:35,331  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-30 23:00:40,860  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-30 23:01:37,892  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-30 23:01:42,808  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-30 23:04:16,871  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-30 23:04:21,614  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-30 23:05:04,145  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-30 23:05:46,915  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-30 23:05:54,123  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-30 23:06:15,142  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-30 23:06:15,379  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-09-30 23:06:15,955  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-30 23:06:16,231  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-30 23:06:16,235  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-09-30 23:10:32,842  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-30 23:11:14,985  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-30 23:11:20,732  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-30 23:12:57,333  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-30 23:13:37,453  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-30 23:13:43,305  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 09:59:06,206  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 09:59:18,987  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 09:59:23,474  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 10:08:01,566  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 10:08:14,340  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 10:08:18,243  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 10:20:29,973  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 10:20:42,369  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 10:20:46,666  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 10:27:22,293  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 10:27:33,023  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 10:27:41,035  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 10:27:47,619  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-10-01 10:27:48,235  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-01 10:27:49,623  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-01 10:27:50,259  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-10-01 10:27:50,263  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-10-01 11:13:26,011  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 11:13:41,773  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 11:13:46,028  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 11:13:54,489  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-10-01 11:13:54,774  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-01 11:13:55,576  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-01 11:13:55,966  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-10-01 11:13:55,966  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-10-01 11:36:27,239  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 11:36:42,371  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 11:36:46,393  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 11:40:56,113  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 11:41:12,313  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 11:41:17,509  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 11:51:32,347  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 11:51:48,402  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 11:51:52,375  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 11:55:10,769  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 11:55:26,402  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 11:55:31,535  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 12:09:57,601  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 12:10:30,525  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 12:10:35,555  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 12:10:53,262  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-01 12:10:53,821  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-01 12:10:54,117  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-10-01 12:10:54,117  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-10-01 12:27:46,227  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 12:28:07,665  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 12:28:11,951  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 12:28:22,608  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected :March 15, 2019
+2019-10-01 12:28:22,824  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-01 12:28:23,340  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-01 12:28:23,664  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-10-01 12:28:23,664  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-10-01 13:08:43,710  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 13:09:02,921  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 13:09:08,878  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-10-01 13:09:19,686  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected :March 15, 2019
+2019-10-01 13:09:19,861  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-01 13:09:20,044  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-01 13:09:20,612  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-10-01 13:09:20,613  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-10-01 15:55:20,122  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 15:56:25,870  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-10-01 15:56:27,398 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 15:56:27,411 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 15:56:27,411 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 15:56:27,411 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 15:56:27,427 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:00:58,623  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 16:03:57,614  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 16:03:57,614  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 16:04:11,986 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:04:11,989 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:04:11,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:04:11,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:04:11,997 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:04:18,070  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 16:06:01,694 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:06:01,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:06:01,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:06:01,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:06:01,700 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:06:07,435  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 16:06:30,777 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:06:30,780 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:06:30,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:06:30,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:06:30,782 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:08:00,213  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:08:44,148  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 16:08:44,148  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 16:08:44,980 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:08:44,980 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:08:44,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:08:44,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:08:44,984 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:08:54,043  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:09:48,792  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-10-01 16:09:49,531 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:09:49,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:09:49,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:09:49,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:09:49,531 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:09:57,881  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:10:46,709  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 16:10:47,947 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:10:47,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:10:47,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:10:47,950 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:10:47,950 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:17:09,188  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:17:24,942  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 16:17:24,942  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 16:17:25,660 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:17:25,664 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:17:25,668 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:17:25,672 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:17:25,672 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:17:35,838  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:17:50,932  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-10-01 16:17:51,644 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:17:51,644 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:17:51,644 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:17:51,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:17:51,648 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:18:00,331  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:18:15,704  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 16:18:16,880 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:18:16,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:18:16,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:18:16,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:18:16,883 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:23:27,689  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:23:41,455  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 16:23:41,455  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 16:23:42,182 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:23:42,182 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:23:42,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:23:42,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:23:42,186 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:23:50,967  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:24:05,156  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-10-01 16:24:05,828 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:24:05,828 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:24:05,828 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:24:05,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:24:05,832 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:24:14,599  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:24:29,507  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 16:24:30,636 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:24:30,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:24:30,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:24:30,642 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:24:30,643 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:29:46,547  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:30:01,981  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 16:30:01,981  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 16:30:21,649  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values (1349, 399)
+2019-10-01 16:30:37,990  INFO [main] LogReports:22 - Footer text of all the pages are validated: All the pages contain same Footer values Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-01 16:30:37,990  INFO [main] LogReports:22 - Succesfully completed verifying footer size and footer text of all the pages
+2019-10-01 16:30:38,063 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:30:38,067 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:30:38,071 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:30:38,075 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:30:38,075 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:30:47,460  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:31:01,691  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-10-01 16:31:02,176  INFO [main] LogReports:22 - failed: validated services menu: Actual data : Services
+Digital Life   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-01 16:31:02,648  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life   Expected :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-01 16:31:03,072  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-01 16:31:03,072  INFO [main] LogReports:22 - second test case completed
+2019-10-01 16:31:03,077 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:31:03,079 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:31:03,079 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:31:03,079 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:31:03,079 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:31:12,182  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:31:27,137  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 16:31:28,555 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:31:28,556 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:31:28,556 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:31:28,557 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:31:28,557 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:53:51,381  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:54:05,520  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 16:54:05,524  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 16:54:20,055  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values: (1349, 399)
+2019-10-01 16:54:33,093  INFO [main] LogReports:22 - Footer text of all the pages are validated: All the pages contain same Footer values: Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-01 16:54:33,093  INFO [main] LogReports:22 - Succesfully completed verifying footer size and footer text of all the pages
+2019-10-01 16:54:33,149 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:54:33,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:54:33,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:54:33,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:54:33,153 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:54:42,312  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:54:56,903  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-10-01 16:54:57,437  INFO [main] LogReports:22 - failed: validated services menu: Actual data : Services
+Digital Life
+Cloud Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-01 16:54:57,873  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life   Expected :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-01 16:54:58,253  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-01 16:54:58,255  INFO [main] LogReports:22 - second test case completed
+2019-10-01 16:54:58,257 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:54:58,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:54:58,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:54:58,261 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:54:58,261 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 16:55:06,579  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:55:20,889  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 16:55:27,319  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:55:41,908  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 16:55:48,952  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-01 16:56:03,220  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 16:56:04,750 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 16:56:04,752 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 16:56:04,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 16:56:04,754 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 16:56:04,755 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 17:01:18,287  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 17:01:38,327  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 17:01:38,331  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 17:01:52,973  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values: (1349, 399)
+2019-10-01 17:02:04,535  INFO [main] LogReports:22 - Footer text of all the pages are validated: All the pages contain same Footer values: Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-01 17:02:04,535  INFO [main] LogReports:22 - Succesfully completed verifying footer size and footer text of all the pages
+2019-10-01 17:02:04,589 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 17:02:04,593 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 17:02:04,597 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 17:02:04,601 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 17:02:04,601 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 17:02:12,127  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 17:02:32,949  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-10-01 17:02:33,554  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected data :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-01 17:02:34,106  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected data :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-01 17:02:34,651  INFO [main] LogReports:22 - Passed : validated infrastructureServicesMenu: Actual data : Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management   Expected data :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-01 17:02:34,655  INFO [main] LogReports:22 - second test case completed
+2019-10-01 17:02:34,659 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 17:02:34,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 17:02:34,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 17:02:34,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 17:02:34,663 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 17:02:41,620  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 17:02:59,444  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 17:03:04,271  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected data :Debunking Myths about AI
+2019-10-01 17:03:15,120  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected data :March 15, 2019
+2019-10-01 17:03:15,316  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected data :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-01 17:03:15,496  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected data :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-01 17:03:16,392  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected data :Please fill out this field.
+2019-10-01 17:03:16,392  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-10-01 17:03:16,396 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 17:03:16,400 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 17:03:16,400 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 17:03:16,400 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 17:03:16,400 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 17:22:39,036  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 17:22:58,749  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 17:22:58,753  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 17:23:13,331  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values: (1349, 399)
+2019-10-01 17:23:24,209  INFO [main] LogReports:22 - Footer text of all the pages are validated: All the pages contain same Footer values: Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-01 17:23:24,209  INFO [main] LogReports:22 - Succesfully completed verifying footer size and footer text of all the pages
+2019-10-01 17:23:24,285 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 17:23:24,285 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 17:23:24,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 17:23:24,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 17:23:24,293 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 17:23:31,463  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 17:23:49,313  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-10-01 17:23:49,796  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected data :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-01 17:23:50,276  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected data :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-01 17:23:50,695  INFO [main] LogReports:22 - Passed : validated infrastructureServicesMenu: Actual data : Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management   Expected data :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-01 17:23:50,701  INFO [main] LogReports:22 - second test case completed
+2019-10-01 17:23:50,703 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 17:23:50,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 17:23:50,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 17:23:50,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 17:23:50,704 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 17:23:57,510  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 17:24:15,536  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-10-01 17:24:19,363  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected data :Debunking Myths about AI
+2019-10-01 17:24:28,851  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected data :March 15, 2019
+2019-10-01 17:24:29,139  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected data :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-01 17:24:29,427  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected data :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-01 17:24:29,919  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected data :Please fill out this field.
+2019-10-01 17:24:29,919  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-10-01 17:24:29,924 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 17:24:29,925 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 17:24:29,926 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 17:24:29,926 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 17:24:29,926 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:47:37,989 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:47:37,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:47:37,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:47:38,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:47:38,001 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:47:44,607  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 18:48:03,107  INFO [main] LogReports:22 - ..Second test case started: veryifing Service menu fields
+2019-10-01 18:48:04,057  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected data :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-01 18:48:04,860  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected data :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-01 18:48:05,631  INFO [main] LogReports:22 - Passed : validated infrastructureServicesMenu: Actual data : Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management   Expected data :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-01 18:48:05,635  INFO [main] LogReports:22 - second test case completed
+2019-10-01 18:48:05,691 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:48:05,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:48:05,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:48:05,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:48:05,691 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:48:13,259  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 18:48:34,358  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-01 18:48:40,367  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected data :Debunking Myths about AI
+2019-10-01 18:48:52,085  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected data :March 15, 2019
+2019-10-01 18:48:52,840  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected data :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-01 18:48:53,659  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected data :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-01 18:48:55,160  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected data :Please fill out this field.
+2019-10-01 18:48:55,160  INFO [main] LogReports:22 - ..SECOND SCENARIO SUCCESSFULLY COMPLETED..
+2019-10-01 18:48:55,167 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:48:55,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:48:55,171 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:48:55,171 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:48:55,171 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:51:02,030 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:51:02,034 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:51:02,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:51:02,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:51:02,035 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:51:02,649 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:51:02,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:51:02,653 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:51:02,653 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:51:02,653 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:51:02,981 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:51:02,981 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:51:02,981 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:51:02,985 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:51:02,985 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:51:43,588 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:51:43,597 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:51:43,597 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:51:43,597 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:51:43,601 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:51:44,208 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:51:44,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:51:44,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:51:44,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:51:44,212 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:51:44,540 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:51:44,540 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:51:44,540 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:51:44,544 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:51:44,544 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:52:41,837 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:52:41,844 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:52:41,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:52:41,849 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:52:41,849 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 18:55:18,317 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 18:55:18,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 18:55:18,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 18:55:18,332 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 18:55:18,332 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:00:59,872  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-01 19:01:19,787  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-01 19:01:19,787  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-01 19:01:44,675  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values: (1349, 399)
+2019-10-01 19:02:01,538  INFO [main] LogReports:22 - Footer text of all the pages are validated: All the pages contain same Footer values: Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-01 19:02:01,542  INFO [main] LogReports:22 - ..Succesfully completed verifying footer size and footer text of all the pages..
+2019-10-01 19:02:01,637 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:02:01,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:02:01,645 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:02:01,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:02:01,649 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:02:02,478 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:02:02,482 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:02:02,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:02:02,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:02:02,489 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:02:02,909 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:02:02,909 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:02:02,909 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:02:02,913 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:02:02,913 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:03:11,063 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:03:11,070 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:03:11,070 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:03:11,074 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:03:11,074 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:03:11,875 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:03:11,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:03:11,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:03:11,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:03:11,883 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:03:12,350 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:03:12,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:03:12,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:03:12,358 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:03:12,358 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:03:38,211 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:03:38,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:03:38,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:03:38,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:03:38,223 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:03:39,090 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:03:39,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:03:39,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:03:39,094 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:03:39,094 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:03:39,670 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:03:39,674 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:03:39,674 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:03:39,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:03:39,678 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:04:00,103 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:04:00,114 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:04:00,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:04:00,122 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:04:00,122 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:04:01,017 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:04:01,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:04:01,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:04:01,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:04:01,025 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:04:01,450 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:04:01,450 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:04:01,454 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:04:01,454 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:04:01,454 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:19:57,443 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:19:57,449 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:19:57,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:19:57,454 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:19:57,454 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:20:00,325 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:20:00,326 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:20:00,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:20:00,329 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:20:00,329 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:20:02,786 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:20:02,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:20:02,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:20:02,789 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:20:02,790 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:31:49,387 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:31:49,392 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:31:49,394 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:31:49,396 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:31:49,396 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:31:53,910 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:31:53,912 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:31:53,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:31:53,916 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:31:53,917 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 19:31:58,205 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 19:31:58,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 19:31:58,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 19:31:58,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 19:31:58,216 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:22:27,934 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:22:27,948 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:22:27,951 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:22:27,953 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:22:27,954 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:22:32,370 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:22:32,372 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:22:32,373 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:22:32,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:22:32,379 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:22:36,638 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:22:36,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:22:36,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:22:36,642 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:22:36,643 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:26:24,288  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 10:26:36,525  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-03 10:26:36,526  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-03 10:26:46,072  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values: (1349, 399)
+2019-10-03 10:26:56,557  INFO [main] LogReports:22 - Footer text of all the pages are validated: All the pages contain same Footer values: Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-03 10:26:56,558  INFO [main] LogReports:22 - ..Succesfully completed verifying footer size and footer text of all the pages..
+2019-10-03 10:26:56,595 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:26:56,597 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:26:56,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:26:56,600 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:26:56,601 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:27:03,905  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 10:27:15,655  INFO [main] LogReports:22 - ..Second test case started: veryifing Service menu fields
+2019-10-03 10:27:16,185  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected data :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-03 10:27:16,633  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected data :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-03 10:27:17,068  INFO [main] LogReports:22 - Passed : validated infrastructureServicesMenu: Actual data : Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management   Expected data :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-03 10:27:17,072  INFO [main] LogReports:22 - second test case completed
+2019-10-03 10:27:17,075 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:27:17,076 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:27:17,076 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:27:17,077 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:27:17,078 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:27:23,573  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 10:27:35,528  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:27:39,270  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected data :Debunking Myths about AI
+2019-10-03 10:27:43,598  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected data :March 15, 2019
+2019-10-03 10:27:43,778  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected data :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-03 10:27:43,948  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected data :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-03 10:27:44,522  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected data :Please fill out this field.
+2019-10-03 10:27:44,522  INFO [main] LogReports:22 - ..SECOND SCENARIO SUCCESSFULLY COMPLETED..
+2019-10-03 10:27:44,526 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:27:44,528 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:27:44,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:27:44,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:27:44,530 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:36:03,023  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:36:11,167  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-10-03 10:36:11,167  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-10-03 10:36:22,149  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values: (1349, 399)
+2019-10-03 10:36:36,258  INFO [main] LogReports:22 - Footer text of all the pages are validated: All the pages contain same Footer values: Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-03 10:36:36,258  INFO [main] LogReports:22 - ..Succesfully completed verifying footer size and footer text of all the pages..
+2019-10-03 10:36:36,304 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:36:36,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:36:36,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:36:36,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:36:36,312 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:36:45,361  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:36:52,479  INFO [main] LogReports:22 - ..Second test case started: veryifing Service menu fields
+2019-10-03 10:36:53,054  INFO [main] LogReports:22 - failed: validated services menu: Actual data : Services
+Digital Life   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-03 10:36:53,514  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life   Expected :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-03 10:36:53,957  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-03 10:36:53,957  INFO [main] LogReports:22 - second test case completed
+2019-10-03 10:36:53,965 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:36:53,965 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:36:53,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:36:53,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:36:53,973 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:37:02,542  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:37:10,451  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:37:17,524  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:37:24,934  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:37:31,986  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:37:39,387  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:37:41,436 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:37:41,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:37:41,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:37:41,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:37:41,439 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:40:59,214  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:41:06,996  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:42:12,556  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:42:20,341  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:42:25,374  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected data :Debunking Myths about AI
+2019-10-03 10:42:31,636  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected data :March 15, 2019
+2019-10-03 10:42:31,934  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected data :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-03 10:42:32,210  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected data :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-03 10:42:33,006  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected data :Please fill out this field.
+2019-10-03 10:42:33,006  INFO [main] LogReports:22 - ..SECOND SCENARIO SUCCESSFULLY COMPLETED..
+2019-10-03 10:42:33,068 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:42:33,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:42:33,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:42:33,076 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:42:33,076 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:43:35,611  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:43:43,954  INFO [main] LogReports:22 - ..Second test case started: veryifing Service menu fields
+2019-10-03 10:43:45,163  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected data :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-03 10:43:46,081  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected data :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-03 10:44:44,766  INFO [main] LogReports:22 - Firefox browser is started...
+2019-10-03 10:44:53,077  INFO [main] LogReports:22 - ..Second test case started: veryifing Service menu fields
+2019-10-03 10:44:54,208  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected data :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-03 10:44:55,349  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected data :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-03 10:44:56,546  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-03 10:44:56,546  INFO [main] LogReports:22 - second test case completed
+2019-10-03 10:44:56,686 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:44:56,714 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:44:56,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:44:56,754 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:44:56,762 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:57:48,466  INFO [main] LogReports:22 - IE browser is started...
+2019-10-03 10:57:48,658 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:57:48,658 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:57:48,658 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:57:48,658 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:57:48,658 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:58:29,116  INFO [main] LogReports:22 - IE browser is started...
+2019-10-03 10:58:38,360  INFO [main] LogReports:22 - ..Second test case started: veryifing Service menu fields
+2019-10-03 10:58:40,042  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected data :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-10-03 10:58:41,596  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected data :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-10-03 10:58:43,049  INFO [main] LogReports:22 - Passed : validated infrastructureServicesMenu: Actual data : Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management   Expected data :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-10-03 10:58:43,049  INFO [main] LogReports:22 - second test case completed
+2019-10-03 10:58:43,068 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:58:43,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:58:43,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:58:43,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:58:43,068 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 10:58:45,772  INFO [main] LogReports:22 - IE browser is started...
+2019-10-03 10:58:49,666  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:58:56,724  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected data :Debunking Myths about AI
+2019-10-03 10:59:03,584  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected data :March 15, 2019
+2019-10-03 10:59:04,169  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected data :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-03 10:59:04,749  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected data :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-03 10:59:07,692  INFO [main] LogReports:22 - IE browser is started...
+2019-10-03 10:59:11,631  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:59:19,404  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected data :Debunking Myths about AI
+2019-10-03 10:59:23,477  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected data :March 15, 2019
+2019-10-03 10:59:24,090  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected data :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-03 10:59:24,670  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected data :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-03 10:59:27,064  INFO [main] LogReports:22 - IE browser is started...
+2019-10-03 10:59:31,060  INFO [main] LogReports:22 - ....SECOND SCENARIO STARTED...
+2019-10-03 10:59:37,686  INFO [main] LogReports:22 - Passed : validated blog title: Actual data : Debunking Myths about AI   Expected data :Debunking Myths about AI
+2019-10-03 10:59:41,531  INFO [main] LogReports:22 - Passed : validated date: Actual data : March 15, 2019   Expected data :March 15, 2019
+2019-10-03 10:59:42,161  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected data :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-10-03 10:59:42,757  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected data :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-10-03 10:59:43,861 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 10:59:43,863 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 10:59:43,863 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 10:59:43,864 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 10:59:43,864 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 13:51:34,421  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 13:53:36,372  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 13:54:16,712  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 13:57:09,384  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:01:17,179  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:08:54,452  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:17:24,703  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:18:36,434  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:21:31,950  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:23:30,775  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:31:04,384  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:53:39,907  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 14:54:01,091  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 14:54:01,286  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:00:00,235  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 15:00:21,566  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 15:00:21,774  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:13:22,381  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 15:13:43,082  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 15:13:43,279  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:14:38,990  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 15:14:58,883  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 15:14:59,071  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:26:11,771  INFO [main] LogReports:22 - Chrome browser is started...
+2019-10-03 15:26:32,996  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 15:26:33,177  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:43:50,592  INFO [main] LogReports:22 - Chrome browser  started
+2019-10-03 15:44:13,714  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 15:44:13,903  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:47:16,589  INFO [main] LogReports:22 - Chrome browser  started
+2019-10-03 15:47:37,742  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 15:47:37,919  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:50:39,420  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 15:50:55,386  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 15:50:55,553  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:55:02,326  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 15:55:19,233  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 15:55:19,383  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 15:55:25,184  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 16:10:29,752  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 16:10:48,033  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 16:10:48,792  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 16:10:56,763  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 16:12:44,960  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 16:13:05,446  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 16:13:05,652  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 16:13:12,231  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 16:13:12,435  INFO [main] LogReports:22 - Passed : validatingAI: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 16:30:29,263  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 16:30:46,683  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 16:30:46,844  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 16:30:52,458  INFO [main] LogReports:22 - Passed : validatingAI: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 16:30:52,589  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 16:30:57,910  INFO [main] LogReports:22 - Passed : validatingAI: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 16:30:58,045  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 16:45:25,700  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 16:45:42,700  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 16:45:42,872  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 16:45:47,080  INFO [main] LogReports:22 - Passed : validatingAI: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 16:45:47,297  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 16:45:53,679  INFO [main] LogReports:22 - Passed : validatingAI: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 16:45:53,843  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 16:46:00,802  INFO [main] LogReports:22 - Passed : validatingAI: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 16:46:00,951  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 16:46:08,967  INFO [main] LogReports:22 - Passed : validatingAI: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 16:46:09,091  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 16:46:14,025  INFO [main] LogReports:22 - Passed : validatingAI: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 16:46:14,156  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Blockchain   Expected data :Blockchain
+2019-10-03 18:09:24,567  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 18:09:42,661  INFO [main] LogReports:22 - Passed : validatedExploreNowBreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 18:09:42,821  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 18:09:47,713  INFO [main] LogReports:22 - Passed : validatingAIBreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 18:09:47,870  INFO [main] LogReports:22 - Passed : validatedAI Page: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 18:09:53,277  INFO [main] LogReports:22 - Passed : validatingARBreadCrumb: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 18:09:53,426  INFO [main] LogReports:22 - Passed : validatedARPage: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 18:10:01,247  INFO [main] LogReports:22 - Passed : validatingIOTBreadCrumb: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 18:10:01,424  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 18:10:07,520  INFO [main] LogReports:22 - Passed : validatingRPABreadCrumb: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 18:10:07,649  INFO [main] LogReports:22 - Passed : validatedRPA: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 18:10:13,546  INFO [main] LogReports:22 - Passed : validatingBlockChainBreadCrumb: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 18:10:13,667  INFO [main] LogReports:22 - failed: validatedAI: Actual data : Blockchain   Expected :null
+2019-10-03 18:41:15,913  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 18:50:59,060  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 18:57:09,863  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 18:57:27,197  INFO [main] LogReports:22 - Passed : validatedExploreNowBreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 18:57:27,365  INFO [main] LogReports:22 - Passed : validated ExploreNow page: Actual data : Services   Expected data :Services
+2019-10-03 18:57:35,701  INFO [main] LogReports:22 - Passed : validatingAIBreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 18:57:35,858  INFO [main] LogReports:22 - Passed : validatedAI Page: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 18:57:40,803  INFO [main] LogReports:22 - Passed : validatingARBreadCrumb: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 18:57:40,965  INFO [main] LogReports:22 - Passed : validatedARPage: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 18:57:46,102  INFO [main] LogReports:22 - Passed : validatingIOTBreadCrumb: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 18:57:46,239  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 18:57:52,434  INFO [main] LogReports:22 - Passed : validatingRPABreadCrumb: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 18:57:52,594  INFO [main] LogReports:22 - Passed : validatedRPA: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 18:57:58,920  INFO [main] LogReports:22 - Passed : validatingBlockChainBreadCrumb: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 18:57:59,044  INFO [main] LogReports:22 - Passed : validatedAI: Actual data : Blockchain   Expected data :Blockchain
+2019-10-03 19:17:55,426  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 19:18:15,389  INFO [main] LogReports:22 - Passed : validatedExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 19:18:15,554  INFO [main] LogReports:22 - Passed : validated ExploreNow pageTittle: Actual data : Services   Expected data :Services
+2019-10-03 19:18:21,912  INFO [main] LogReports:22 - Passed : validatingAIBreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 19:18:22,060  INFO [main] LogReports:22 - Passed : validatedAI Page: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 19:18:27,116  INFO [main] LogReports:22 - Passed : validatingARBreadCrumb: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 19:18:27,238  INFO [main] LogReports:22 - Passed : validatedARPage: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 19:18:32,109  INFO [main] LogReports:22 - Passed : validating IOT page BreadCrumb: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 19:18:32,244  INFO [main] LogReports:22 - Passed : validated IOT page Tittle: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 19:18:36,984  INFO [main] LogReports:22 - Passed : validated RPA page BreadCrumb: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 19:18:37,176  INFO [main] LogReports:22 - Passed : validated RPA page Tittle: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 19:18:42,046  INFO [main] LogReports:22 - Passed : validatingBlockChain page BreadCrumb: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 19:18:42,361  INFO [main] LogReports:22 - Passed : validated BlockChain page Tittle: Actual data : Blockchain   Expected data :Blockchain
+2019-10-03 19:39:04,344  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 19:39:24,711  INFO [main] LogReports:22 - Passed : validatedExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 19:39:24,902  INFO [main] LogReports:22 - Passed : validated ExploreNow pageTittle: Actual data : Services   Expected data :Services
+2019-10-03 19:39:29,369  INFO [main] LogReports:22 - Passed : validatingAIBreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 19:39:29,535  INFO [main] LogReports:22 - Passed : validatedAI Page: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 19:39:34,218  INFO [main] LogReports:22 - Passed : validatingARBreadCrumb: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 19:39:34,369  INFO [main] LogReports:22 - Passed : validatedARPage: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 19:39:40,733  INFO [main] LogReports:22 - Passed : validating IOT page BreadCrumb: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 19:39:40,917  INFO [main] LogReports:22 - Passed : validated IOT page Tittle: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 19:39:47,169  INFO [main] LogReports:22 - Passed : validated RPA page BreadCrumb: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 19:39:47,298  INFO [main] LogReports:22 - Passed : validated RPA page Tittle: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 19:39:55,066  INFO [main] LogReports:22 - Passed : validatingBlockChain page BreadCrumb: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 19:39:55,196  INFO [main] LogReports:22 - Passed : validated BlockChain page Tittle: Actual data : Blockchain   Expected data :Blockchain
+2019-10-03 19:57:35,949  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 19:57:57,060  INFO [main] LogReports:22 - Passed : validatedExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 19:57:57,245  INFO [main] LogReports:22 - Passed : validated ExploreNow pageTittle: Actual data : Services   Expected data :Services
+2019-10-03 19:58:04,556  INFO [main] LogReports:22 - Passed : validatingAIBreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 19:58:04,736  INFO [main] LogReports:22 - Passed : validatedAI Page: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 19:58:12,606  INFO [main] LogReports:22 - Passed : validatingARBreadCrumb: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 19:58:12,806  INFO [main] LogReports:22 - Passed : validatedARPage: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 19:58:18,437  INFO [main] LogReports:22 - Passed : validating IOT page BreadCrumb: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 19:58:18,574  INFO [main] LogReports:22 - Passed : validated IOT page Tittle: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 19:58:23,740  INFO [main] LogReports:22 - Passed : validated RPA page BreadCrumb: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 19:58:23,874  INFO [main] LogReports:22 - Passed : validated RPA page Tittle: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 19:58:30,770  INFO [main] LogReports:22 - Passed : validatingBlockChain page BreadCrumb: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 19:58:30,942  INFO [main] LogReports:22 - Passed : validated BlockChain page Tittle: Actual data : Blockchain   Expected data :Blockchain
+2019-10-03 19:58:34,422 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 19:58:34,434 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 19:58:34,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 19:58:34,447 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 19:58:34,449 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:09:28,267  INFO [main] LogReports:22 - Chrome browser  started
+2019-10-03 20:09:54,063  INFO [main] LogReports:22 - Passed : validatedExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 20:09:54,240  INFO [main] LogReports:22 - Passed : validated ExploreNow pageTittle: Actual data : Services   Expected data :Services
+2019-10-03 20:09:58,991  INFO [main] LogReports:22 - Passed : validatingAIBreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 20:09:59,168  INFO [main] LogReports:22 - Passed : validatedAI Page: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 20:10:05,586  INFO [main] LogReports:22 - Passed : validatingARBreadCrumb: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 20:10:05,759  INFO [main] LogReports:22 - Passed : validatedARPage: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 20:10:10,558  INFO [main] LogReports:22 - Passed : validating IOT page BreadCrumb: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 20:10:10,731  INFO [main] LogReports:22 - Passed : validated IOT page Tittle: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 20:10:16,002  INFO [main] LogReports:22 - Passed : validated RPA page BreadCrumb: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 20:10:16,170  INFO [main] LogReports:22 - Passed : validated RPA page Tittle: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 20:10:22,300  INFO [main] LogReports:22 - Passed : validatingBlockChain page BreadCrumb: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 20:10:22,478  INFO [main] LogReports:22 - Passed : validated BlockChain page Tittle: Actual data : Blockchain   Expected data :Blockchain
+2019-10-03 20:10:24,422 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:10:24,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:10:24,430 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:10:24,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:10:24,431 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:28:25,875  INFO [main] LogReports:22 - IE browser  started
+2019-10-03 20:28:44,059  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 20:28:44,699  INFO [main] LogReports:22 - Passed : validated ExploreNow page Title: Actual data : Services   Expected data :Services
+2019-10-03 20:28:52,501  INFO [main] LogReports:22 - Passed : validated AI page BreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 20:28:52,985  INFO [main] LogReports:22 - Passed : validated AI Page Title: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 20:28:57,211 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:28:57,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:28:57,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:28:57,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:28:57,219 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:32:50,439  INFO [main] LogReports:22 - IE browser  started
+2019-10-03 20:32:58,424  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 20:32:58,985  INFO [main] LogReports:22 - Passed : validated ExploreNow page Title: Actual data : Services   Expected data :Services
+2019-10-03 20:33:05,179  INFO [main] LogReports:22 - Passed : validated AI page BreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 20:33:05,740  INFO [main] LogReports:22 - Passed : validated AI Page Title: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 20:33:09,003 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:33:09,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:33:09,007 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:33:09,007 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:33:09,007 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:33:47,756  INFO [main] LogReports:22 - IE browser  started
+2019-10-03 20:33:55,515  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 20:33:56,070  INFO [main] LogReports:22 - Passed : validated ExploreNow page Title: Actual data : Services   Expected data :Services
+2019-10-03 20:34:01,476  INFO [main] LogReports:22 - Passed : validated AI page BreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 20:34:01,969  INFO [main] LogReports:22 - Passed : validated AI Page Title: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 20:34:04,916 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:34:04,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:34:04,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:34:04,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:34:04,920 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:34:57,521  INFO [main] LogReports:22 - IE browser  started
+2019-10-03 20:35:06,412  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 20:35:06,929  INFO [main] LogReports:22 - Passed : validated ExploreNow page Title: Actual data : Services   Expected data :Services
+2019-10-03 20:35:12,352  INFO [main] LogReports:22 - Passed : validated AI page BreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 20:35:12,921  INFO [main] LogReports:22 - Passed : validated AI Page Title: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 20:35:16,041 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:35:16,041 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:35:16,041 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:35:16,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:35:16,045 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:36:28,333  INFO [main] LogReports:22 - Chrome browser  started
+2019-10-03 20:36:53,374  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 20:36:53,553  INFO [main] LogReports:22 - Passed : validated ExploreNow page Title: Actual data : Services   Expected data :Services
+2019-10-03 20:36:58,647  INFO [main] LogReports:22 - Passed : validated AI page BreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 20:36:58,819  INFO [main] LogReports:22 - Passed : validated AI Page Title: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 20:37:06,326  INFO [main] LogReports:22 - Passed : validated AR BreadCrumb: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 20:37:06,500  INFO [main] LogReports:22 - Passed : validated AR Page Title: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 20:37:12,991  INFO [main] LogReports:22 - Passed : validating IOT page BreadCrumb: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 20:37:13,179  INFO [main] LogReports:22 - Passed : validated IOT page Tittle: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 20:37:18,438  INFO [main] LogReports:22 - Passed : validated RPA page BreadCrumb: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 20:37:18,617  INFO [main] LogReports:22 - Passed : validated RPA page Tittle: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 20:37:24,163  INFO [main] LogReports:22 - Passed : validating BlockChain page BreadCrumb: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 20:37:24,340  INFO [main] LogReports:22 - Passed : validated BlockChain page Tittle: Actual data : Blockchain   Expected data :Blockchain
+2019-10-03 20:37:26,635 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:37:26,635 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:37:26,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:37:26,643 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:37:26,643 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:39:53,411  INFO [main] LogReports:22 - IE browser  started
+2019-10-03 20:40:01,354  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 20:40:01,911  INFO [main] LogReports:22 - Passed : validated ExploreNow page Title: Actual data : Services   Expected data :Services
+2019-10-03 20:40:10,621  INFO [main] LogReports:22 - Passed : validated AI page BreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 20:40:11,264  INFO [main] LogReports:22 - Passed : validated AI Page Title: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 20:40:14,112 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:40:14,112 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:40:14,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:40:14,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:40:14,116 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:50:41,542  INFO [main] LogReports:22 - IE browser  started
+2019-10-03 20:50:49,239  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 20:50:49,820  INFO [main] LogReports:22 - Passed : validated ExploreNow page Title: Actual data : Services   Expected data :Services
+2019-10-03 20:50:56,818  INFO [main] LogReports:22 - Passed : validated AI page BreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 20:50:57,328  INFO [main] LogReports:22 - Passed : validated AI Page Title: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 20:51:00,332 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:51:00,337 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:51:00,338 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:51:00,338 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:51:00,338 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 21:06:52,837  INFO [main] LogReports:22 - Firefox browser  started
+2019-10-03 21:07:12,876  INFO [main] LogReports:22 - Passed : validated ExploreNow BreadCrumb: Actual data : Home › Services   Expected data :Home › Services
+2019-10-03 21:07:13,039  INFO [main] LogReports:22 - Passed : validated ExploreNow page Title: Actual data : Services   Expected data :Services
+2019-10-03 21:07:18,105  INFO [main] LogReports:22 - Passed : validated AI page BreadCrumb: Actual data : Home › Services › Digital Life › Artificial Intelligence / Machine Learning   Expected data :Home › Services › Digital Life › Artificial Intelligence / Machine Learning
+2019-10-03 21:07:18,260  INFO [main] LogReports:22 - Passed : validated AI Page Title: Actual data : Artificial Intelligence / Machine Learning   Expected data :Artificial Intelligence / Machine Learning
+2019-10-03 21:07:23,130  INFO [main] LogReports:22 - Passed : validated AR BreadCrumb: Actual data : Home › Services › Digital Life › Augmented Reality / Virtual Reality   Expected data :Home › Services › Digital Life › Augmented Reality / Virtual Reality
+2019-10-03 21:07:23,256  INFO [main] LogReports:22 - Passed : validated AR Page Title: Actual data : Augmented Reality / Virtual Reality   Expected data :Augmented Reality / Virtual Reality
+2019-10-03 21:07:28,989  INFO [main] LogReports:22 - Passed : validating IOT page BreadCrumb: Actual data : Home › Services › Digital Life › Internet of Things   Expected data :Home › Services › Digital Life › Internet of Things
+2019-10-03 21:07:29,126  INFO [main] LogReports:22 - Passed : validated IOT page Tittle: Actual data : Internet of Things   Expected data :Internet of Things
+2019-10-03 21:07:34,082  INFO [main] LogReports:22 - Passed : validated RPA page BreadCrumb: Actual data : Home › Services › Digital Life › Robotic Process Automation & ChatBOTs   Expected data :Home › Services › Digital Life › Robotic Process Automation & ChatBOTs
+2019-10-03 21:07:34,245  INFO [main] LogReports:22 - Passed : validated RPA page Tittle: Actual data : Robotic Process Automation & ChatBOTs   Expected data :Robotic Process Automation & ChatBOTs
+2019-10-03 21:07:40,798  INFO [main] LogReports:22 - Passed : validating BlockChain page BreadCrumb: Actual data : Home › Services › Digital Life › Blockchain   Expected data :Home › Services › Digital Life › Blockchain
+2019-10-03 21:07:40,971  INFO [main] LogReports:22 - Passed : validated BlockChain page Tittle: Actual data : Blockchain   Expected data :Blockchain
+2019-10-03 21:07:43,594 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 21:07:43,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 21:07:43,607 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 21:07:43,619 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 21:07:43,623 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

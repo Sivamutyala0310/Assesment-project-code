@@ -10,6 +10,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.AfterTest;
 
 import com.relevantcodes.extentreports.ExtentReports;
@@ -25,7 +26,7 @@ public class ExtentReport
 	public void startReport() {
 
 		extent = new ExtentReports(System.getProperty("user.dir") + "/test-output/ExtentReport.html", true);
-		extent.loadConfig(new File(System.getProperty("user.dir") + "\\extent-config.xml"));
+		extent.loadConfig(new File(System.getProperty("user.dir") + "\\AtmecsWebsite\\extent-config.xml"));
 	}
 
 	public static String getScreenshot(WebDriver driver, String screenshotName) throws Exception {
@@ -44,21 +45,25 @@ public class ExtentReport
 		if (result.getStatus() == ITestResult.FAILURE) {
 			ExtentReport.logger.log(LogStatus.FAIL, "Test Case Failed is " + result.getName());
 			ExtentReport.logger.log(LogStatus.FAIL, "Test Case Failed is " + result.getThrowable());
-
 			String screenshotPath = ExtentReport.getScreenshot(ExtentReport.driver, result.getName());
-
 			ExtentReport.logger.log(LogStatus.FAIL, ExtentReport.logger.addScreenCapture(screenshotPath));
-		} else if (result.getStatus() == ITestResult.SKIP) {
+		}
+		else if (result.getStatus() == ITestResult.SKIP) {
 			ExtentReport.logger.log(LogStatus.SKIP, "Test Case Skipped is " + result.getName());
 		}
-
 		ExtentReport.extent.endTest(ExtentReport.logger);
 	}
 
-	@AfterTest
-	public void getClose() {
-		//driver.quit();
-		extent.flush();
-		//extent.close();
-	}	
+	  @AfterTest 
+	  public void getClose() 
+	  {
+	  extent.flush(); 
+	   }
+	  
+	  @AfterSuite
+	  public void quitDriver()
+	  {
+		  driver.quit();
+	  }
+	 
 }

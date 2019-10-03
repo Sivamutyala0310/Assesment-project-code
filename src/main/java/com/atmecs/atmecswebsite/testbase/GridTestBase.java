@@ -13,25 +13,26 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 
 import com.atmecs.atmecswebsite.constants.ConstantFilePaths;
+import com.atmecs.atmecswebsite.reports.ExtentReport;
 import com.atmecs.atmecswebsite.reports.LogReports;
 import com.atmecs.atmecswebsite.utils.ReadLocatorsFile;
 
-public class GridTestBase {
-	LogReports log = new LogReports();
-	Properties baseProperty;
-	String websiteUrl;
-	String browser;
+public class GridTestBase extends ExtentReport
+{
+	static LogReports log = new LogReports();
+	static Properties baseProperty;
+	static String websiteUrl;
+	static String browser;
 	public static WebDriver driver;
 
 	@BeforeMethod
-	public void initializeBrowser() throws Exception 
+	public static void initializeBrowser() throws Exception 
 	{
 		baseProperty = ReadLocatorsFile.loadProperty(ConstantFilePaths.CONFIG_FILE);
 		websiteUrl = baseProperty.getProperty("url");
 		browser = baseProperty.getProperty("browserType");
 		if (browser.equalsIgnoreCase("chrome"))
 		{
-			
 			DesiredCapabilities desiredcapality = DesiredCapabilities.chrome();
 			desiredcapality.setPlatform(Platform.WINDOWS);
 			desiredcapality.setCapability(CapabilityType.BROWSER_NAME, "chrome");

@@ -14,14 +14,14 @@ import com.atmecs.atmecswebsite.pageactions.PageActions;
 
 		public static void explicitWaitClick(WebDriver driver,String xpath) 
 		{
-			WebDriverWait wait = new WebDriverWait(driver, 20);                                        // explicit wait and click()
+			WebDriverWait wait = new WebDriverWait(driver, 70);                                        // explicit wait and click()
 			 element = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath)));    
 			PageActions.performActionEnter(driver);
 		}
 
 		public  static void explicitWait(WebDriver driver,String xpath) 
 		{
-			WebDriverWait wait = new WebDriverWait(driver, 20);                                         // explicit wait 
+			WebDriverWait wait = new WebDriverWait(driver, 70);                                         // explicit wait 
 			 element = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath)));
 		}
 

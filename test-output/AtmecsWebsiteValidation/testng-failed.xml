@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [AtmecsWebsiteValidation]">
-  <test thread-count="5" name="ValidatingMenuFields(failed)">
+  <listeners>
+    <listener class-name="com.atmecs.atmecswebsite.retryanalyser.RetryListener"/>
+  </listeners>
+  <test thread-count="5" name="ValidatingMoreInfoMenuFields(failed)">
     <classes>
-      <class name="com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteVerifyFooter">
+      <class name="com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage">
         <methods>
           <include name="initializeBrowser"/>
-          <include name="verifyFooter"/>
-          <include name="endTest"/>
+          <include name="startReports"/>
+          <include name="getReport"/>
+          <include name="validateHomePage"/>
+          <include name="getClose"/>
+          <include name="quitDriver"/>
         </methods>
-      </class> <!-- com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteVerifyFooter -->
+      </class> <!-- com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteHomePage -->
     </classes>
-  </test> <!-- ValidatingMenuFields(failed) -->
+  </test> <!-- ValidatingMoreInfoMenuFields(failed) -->
 </suite> <!-- Failed suite [AtmecsWebsiteValidation] -->

@@ -13,7 +13,7 @@ public class ValidateResult
 	public static boolean validateData(String actual, String expected, String message) {
 		try {
 			Assert.assertEquals(actual,expected);
-			report.info("Passed : " + message + ": " + "Actual data : " + actual + "   " + "Expected :" + expected);
+			report.info("Passed : " + message + ": " + "Actual data : " + actual + "   " + "Expected data :" + expected);
 			return true;
 		} catch (AssertionError assertionError) {
 			report.info("failed: " + message + ": " + "Actual data : " + actual + "   " + "Expected :" + expected);
@@ -27,10 +27,10 @@ public class ValidateResult
 		
 		try {
 			Assert.assertEquals(actual,expected);
-			report.info("Passed : " + message + ": " + "Actual data : " + actual + "   " + "Expected :" + expected);
+			report.info("Passed : " + message + ": " + "Actual data : " + actual + "   " + "Expected data:" + expected);
 			return true;
 		} catch (AssertionError assertionError) {
-			report.info("passed: " + message + ": " + "Actual data : " + actual + "   " + "Expected :" + expected);
+			report.info("passed: " + message + ": " + "Actual data : " + actual + "   " + "Expected data:" + expected);
 			return false;
 		}
 	}
@@ -40,11 +40,11 @@ public class ValidateResult
 	{
 		try {
 			Assert.assertEquals(actual,expected);
-			report.info("Passed : " + message + ": " + "Actual data : " + actual + "   " + "Expected :" + expected);
+			report.info("Passed : " + message + ": " + "Actual data : " + actual + "   " + "Expected data:" + expected);
 			return true;
 		} catch (AssertionError assertionError) {
 			
-			report.info("passed: " + message + ": " + "Actual data : " + actual + "   " + "Expected :" + expected);
+			report.info("passed: " + message + ": " + "Actual data : " + actual + "   " + "Expected data:" + expected);
 			return false;
 		}
 		

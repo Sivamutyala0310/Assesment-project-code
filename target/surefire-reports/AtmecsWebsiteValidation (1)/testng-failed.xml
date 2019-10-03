@@ -5,9 +5,11 @@
     <classes>
       <class name="com.atmecs.atmecswebsite.testscripts.ServicesContextMenu">
         <methods>
-          <include name="initializeBrowser"/>
+          <include name="startReports"/>
+          <include name="getReport"/>
           <include name="verifyServicesMenu"/>
-          <include name="endTest"/>
+          <include name="getClose"/>
+          <include name="initializeBrowser"/>
         </methods>
       </class> <!-- com.atmecs.atmecswebsite.testscripts.ServicesContextMenu -->
     </classes>

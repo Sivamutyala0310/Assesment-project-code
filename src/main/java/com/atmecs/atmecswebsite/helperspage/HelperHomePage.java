@@ -6,10 +6,9 @@ import com.atmecs.atmecswebsite.dataallocators.AtmecsSiteXpathAllocators;
 import com.atmecs.atmecswebsite.pageactions.PageActions;
 import com.atmecs.atmecswebsite.pageactions.PageActionsScrollDown;
 import com.atmecs.atmecswebsite.reports.LogReports;
-import com.atmecs.atmecswebsite.testbase.GridTestBase;
 import com.atmecs.atmecswebsite.testbase.TestBase;
 
-public class HelperHomePage extends GridTestBase {
+public class HelperHomePage extends TestBase {
 
 	static AtmecsSiteXpathAllocators data = new AtmecsSiteXpathAllocators();
 	static LogReports log = new LogReports();
@@ -40,7 +39,7 @@ public class HelperHomePage extends GridTestBase {
 		
 		if(homeFooterSize.equals(aboutusFooterSize)&& homeFooterSize.equals(servicesFooterSize)&&homeFooterSize.equals(PartnersFooterSize)&& homeFooterSize.equals(carrersFooterSize) )
 		{
-			log.info("Footer size of all the pages are verfied: All the pages contain same Footer values"+" "+homeFooterSize);
+			log.info("Footer size of all the pages are verfied: All the pages contain same Footer values:"+" "+homeFooterSize);
 		}
 		else
 		{
@@ -72,7 +71,7 @@ public class HelperHomePage extends GridTestBase {
 		
 		if(homeData.contentEquals(aboutUsData)&&homeData.contentEquals(servicesData)&&homeData.contentEquals(partnersData)&&homeData.contentEquals(carrersData))
 		{
-			log.info("Footer text of all the pages are validated: All the pages contain same Footer values"+" "+homeData);
+			log.info("Footer text of all the pages are validated: All the pages contain same Footer values:"+" "+homeData);
 		}
 		else
 		{
